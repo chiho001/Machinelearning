@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aec8ef0f-d01a-4a77-bb55-8e7db8809c86" name="Default Changelist" comment="test commit">
+      <change afterPath="$PROJECT_DIR$/.idea/Machinelearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beautifulsoup_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs-link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs-select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs-usd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/down-forecast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/down_forecast_argv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download-ip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urllib_download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b9Ce9SJSZLL9jGA6jaS0hm9Bd5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.bs-usd">
+    <configuration name="beautifulsoup_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machinelearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\user\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beautifulsoup_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bs-link" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machinelearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\user\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bs-link.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bs-select" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machinelearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\user\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bs-select.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bs-usd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machinelearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\user\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bs-usd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bs_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machinelearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\user\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bs_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.beautifulsoup_1" />
+      <item itemvalue="Python.bs_2" />
+      <item itemvalue="Python.bs-link" />
+      <item itemvalue="Python.bs-select" />
+      <item itemvalue="Python.bs-usd" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bs-usd" />
+        <item itemvalue="Python.bs-select" />
+        <item itemvalue="Python.bs-link" />
+        <item itemvalue="Python.bs_2" />
+        <item itemvalue="Python.beautifulsoup_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aec8ef0f-d01a-4a77-bb55-8e7db8809c86" name="Default Changelist" comment="" />
+      <created>1588035014376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588035014376</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <created>1588035065938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588035065939</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="108" key="#beautifulsoup_1" timestamp="1588058967629">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="341" y="108" key="#beautifulsoup_1/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588058967629" />
+    <state x="341" y="111" key="#bs-link" timestamp="1588060991408">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="341" y="111" key="#bs-link/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588060991408" />
+    <state x="341" y="108" key="#bs-select" timestamp="1588066999930">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="341" y="108" key="#bs-select/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588066999930" />
+    <state x="341" y="108" key="#bs-usd" timestamp="1588067337895">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="341" y="108" key="#bs-usd/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588067337895" />
+    <state x="341" y="111" key="#bs_2" timestamp="1588060639109">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="341" y="111" key="#bs_2/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588060639109" />
+    <state x="734" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588058962315">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="734" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588058962315" />
+    <state x="341" y="108" key="#down-forecast" timestamp="1588041056645">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="341" y="108" key="#down-forecast/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588041056645" />
+    <state x="341" y="108" key="#down_forecast_argv" timestamp="1588056286237">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="341" y="108" key="#down_forecast_argv/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588056286237" />
+    <state x="341" y="108" key="#download-ip" timestamp="1588040532365">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="341" y="108" key="#download-ip/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588040532365" />
+    <state x="683" y="116" key="#test" timestamp="1588035740892">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="683" y="116" key="#test/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588035740892" />
+    <state width="1258" height="437" key="GridCell.Tab.0.bottom" timestamp="1588067381797">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1258" height="437" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588067381797" />
+    <state width="1258" height="437" key="GridCell.Tab.0.center" timestamp="1588067381796">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1258" height="437" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588067381796" />
+    <state width="1258" height="437" key="GridCell.Tab.0.left" timestamp="1588067381796">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1258" height="437" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588067381796" />
+    <state width="1258" height="437" key="GridCell.Tab.0.right" timestamp="1588067381796">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1258" height="437" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588067381796" />
+    <state width="1258" height="342" key="GridCell.Tab.1.bottom" timestamp="1588067366213">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1258" height="342" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588067366213" />
+    <state width="1258" height="342" key="GridCell.Tab.1.center" timestamp="1588067366213">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1258" height="342" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588067366213" />
+    <state width="1258" height="342" key="GridCell.Tab.1.left" timestamp="1588067366213">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1258" height="342" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588067366213" />
+    <state width="1258" height="342" key="GridCell.Tab.1.right" timestamp="1588067366213">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1258" height="342" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588067366213" />
+    <state x="232" y="248" key="Vcs.Push.Dialog.v2" timestamp="1588035072487">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="232" y="248" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588035072487" />
+  </component>
+</project>
