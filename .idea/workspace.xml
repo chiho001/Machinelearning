@@ -20,14 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aec8ef0f-d01a-4a77-bb55-8e7db8809c86" name="Default Changelist" comment="폴더 째 이동">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scraping_start/alg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scraping_start/css_usage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scraping_start/sel-books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scraping_start/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scraping_start/fruits-vegetables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scraping_start/sel-using_css.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scraping_start/sel_using_css.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Machinelearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machinelearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scraping_start/bs_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scraping_start/bs_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,35 +57,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hong\PycharmProjects\Machinelearning\Scraping_start" />
       <recent name="C:\Users\user\PycharmProjects\Machinelearning\Scraping_start" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.css_usage">
-    <configuration name="bs-link" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Machinelearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\user\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\Machinelearning\Scraping_start\bs-link.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sel-using_css">
     <configuration name="bs-select" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Machinelearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,6 +79,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\Machinelearning\Scraping_start\bs-select.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bs-usd (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machinelearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scraping_start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scraping_start/bs-usd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,27 +129,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bs_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Machinelearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\user\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\Machinelearning\Scraping_start\bs_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="css_usage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Machinelearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,20 +150,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sel-using_css" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machinelearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scraping_start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scraping_start/sel-using_css.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.bs_2" />
-      <item itemvalue="Python.bs-link" />
       <item itemvalue="Python.bs-select" />
       <item itemvalue="Python.bs-usd" />
       <item itemvalue="Python.css_usage" />
+      <item itemvalue="Python.bs-usd (1)" />
+      <item itemvalue="Python.sel-using_css" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sel-using_css" />
+        <item itemvalue="Python.bs-usd (1)" />
         <item itemvalue="Python.css_usage" />
         <item itemvalue="Python.bs-usd" />
         <item itemvalue="Python.bs-select" />
-        <item itemvalue="Python.bs-link" />
-        <item itemvalue="Python.bs_2" />
       </list>
     </recent_temporary>
   </component>
@@ -243,6 +243,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="폴더 째 이동" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="365" y="385" key="#Notifications" timestamp="1588250642010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="365" y="385" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1588250642010" />
     <state x="341" y="108" key="#beautifulsoup_1" timestamp="1588058967629">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -267,6 +271,14 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="734" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588058962315" />
+    <state x="384" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1588251314074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="384" y="225" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588251314074" />
+    <state x="372" y="349" key="#com.intellij.tools.ToolEditorDialog" timestamp="1588251462271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="372" y="349" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588251462271" />
     <state x="341" y="108" key="#css_usage" timestamp="1588140396852">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -287,22 +299,30 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="683" y="116" key="#test/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588035740892" />
-    <state width="1258" height="198" key="GridCell.Tab.0.bottom" timestamp="1588140835518">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="384" y="275" key="FileChooserDialogImpl" timestamp="1588251368480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="384" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588251368480" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1588252367197">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1258" height="198" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588140835518" />
-    <state width="1258" height="198" key="GridCell.Tab.0.center" timestamp="1588140835518">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588252367197" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1588252367196">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1258" height="198" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588140835518" />
-    <state width="1258" height="198" key="GridCell.Tab.0.left" timestamp="1588140835518">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588252367196" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1588252367196">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1258" height="198" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588140835518" />
-    <state width="1258" height="198" key="GridCell.Tab.0.right" timestamp="1588140835518">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588252367196" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1588252367197">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1258" height="198" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588140835518" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588252367197" />
     <state width="1258" height="342" key="GridCell.Tab.1.bottom" timestamp="1588067758291">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -319,10 +339,11 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1258" height="342" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588067758291" />
-    <state x="141" y="164" key="SettingsEditor" timestamp="1588140526349">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="106" y="164" key="SettingsEditor" timestamp="1588251554341">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="141" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1588140526349" />
+    <state x="106" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588251554341" />
     <state x="232" y="248" key="Vcs.Push.Dialog.v2" timestamp="1588067716477">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
